@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6467c57a-beea-4405-bddc-7af9bff315ab" name="Default Changelist" comment="" />
+    <list default="true" id="6467c57a-beea-4405-bddc-7af9bff315ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lab2/lab2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2191956a-7c60-40b0-bc8b-a58b7d83f2c5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2191956a-7c60-40b0-bc8b-a58b7d83f2c5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/lab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +48,18 @@
     </expand>
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YL8RxwTPLmkhai1SqJ3ge3SKDR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,7 +70,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.lab2">
     <configuration name="lab1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cs9321" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,8 +93,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lab2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cs9321" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2/lab2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab2" />
         <item itemvalue="Python.lab1" />
       </list>
     </recent_temporary>
@@ -104,7 +144,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582710510612</updated>
-      <workItem from="1582710514929" duration="5375000" />
+      <workItem from="1582710514929" duration="5508000" />
+      <workItem from="1582972561675" duration="6606000" />
     </task>
     <servers />
   </component>
@@ -112,32 +153,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="472" key="GridCell.Tab.0.bottom" timestamp="1582738729160">
+    <state x="320" y="117" width="800" height="714" key="#Intentions" timestamp="1582973250823">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="472" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582738729160" />
-    <state width="1398" height="472" key="GridCell.Tab.0.center" timestamp="1582738729158">
+    <state x="320" y="117" width="800" height="714" key="#Intentions/0.0.1440.900@0.0.1440.900" timestamp="1582973250823" />
+    <state width="1398" height="496" key="GridCell.Tab.0.bottom" timestamp="1582987053879">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="472" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582738729158" />
-    <state width="1398" height="472" key="GridCell.Tab.0.left" timestamp="1582738729158">
+    <state width="1398" height="496" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582987053879" />
+    <state width="1398" height="496" key="GridCell.Tab.0.center" timestamp="1582987053878">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="472" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582738729158" />
-    <state width="1398" height="472" key="GridCell.Tab.0.right" timestamp="1582738729159">
+    <state width="1398" height="496" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582987053878" />
+    <state width="1398" height="496" key="GridCell.Tab.0.left" timestamp="1582987053878">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="472" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582738729159" />
-    <state x="374" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1582710530010">
+    <state width="1398" height="496" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582987053878" />
+    <state width="1398" height="496" key="GridCell.Tab.0.right" timestamp="1582987053879">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="374" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582710530010" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582736237758">
+    <state width="1398" height="496" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582987053879" />
+    <state x="374" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1582972562121">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582736237758" />
+    <state x="374" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582972562121" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582983356916">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582983356916" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cs9321$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1582738720461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
+    <SUITE FILE_PATH="coverage/cs9321$lab2.coverage" NAME="lab2 Coverage Results" MODIFIED="1582986119909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2" />
   </component>
 </project>

@@ -238,7 +238,6 @@
     </column>
     <index id="65" parent="6" name="ix_online_index">
       <ColNames>index</ColNames>
-      <ColumnCollations></ColumnCollations>
     </index>
     <column id="66" parent="7" name="type">
       <Position>1</Position>
@@ -450,7 +449,6 @@
     </column>
     <index id="118" parent="8" name="ix_test_index">
       <ColNames>index</ColNames>
-      <ColumnCollations></ColumnCollations>
     </index>
     <column id="119" parent="9" name="index">
       <Position>1</Position>
@@ -642,7 +640,6 @@
     </column>
     <index id="166" parent="9" name="ix_test.db_index">
       <ColNames>index</ColNames>
-      <ColumnCollations></ColumnCollations>
     </index>
   </database-model>
 </dataSource>

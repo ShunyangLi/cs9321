@@ -120,6 +120,15 @@ def pd_read_json(json_data):
     return df
 
 
+def conn_db(filename):
+    """
+
+    :param filename: the filename of db
+    :return: return the cursor
+    """
+    return sqlite3.connect(filename)
+
+
 if __name__ == '__main__':
     # df = read_csv('Demographic_Statistics_By_Zip_Code.csv')
     # show_col_row(df, show_row=False)
